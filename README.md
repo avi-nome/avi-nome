@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm [Avinash]! 👋
 
-<!--
-**avi-nome/avi-nome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an aspiring **Game Developer** and a **2nd-year B.Tech student** at **Shri Vishwakarma Skill University (SVSU)**. I enjoy building interactive worlds and solving complex problems through code.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 Currently pursuing my **B.Tech** at SVSU.
+- 🎮 Passionate about **Game Development** and **Real-time Graphics**.
+- 🛠️ Currently exploring **Game Mechanics** and **Logic Systems**.
+- 🌱 Learning more about **Data Structures** and **Algorithms** to build more efficient game engines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+### Languages
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+### Game Dev & Tools
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Pygame](https://img.shields.io/badge/pygame-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[avi-nome]&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[avi-nome]&layout=compact&theme=radical)
+
+
+
+---
+*"Games are the only force in the known universe that can get people to take actions against their own self-interest, in a predictable way, for extended periods of time."*
