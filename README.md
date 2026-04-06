@@ -19,12 +19,5 @@ I am an aspiring **Game Developer** and a **2nd-year B.Tech student** at **Shri 
 ![Pygame](https://img.shields.io/badge/pygame-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[avi-nome]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[avi-nome]&layout=compact&theme=radical)
-
-
-
 ---
 *"Games are the only force in the known universe that can get people to take actions against their own self-interest, in a predictable way, for extended periods of time."*
